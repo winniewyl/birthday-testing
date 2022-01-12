@@ -1,4 +1,4 @@
-import '../Cake.scss';
+import './Cake.scss';
 
 const Cake = () => {
   return (
